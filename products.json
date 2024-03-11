@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Turkey Breast Club",
+        "description": "Boar's Head roasted turkey breast, Swiss cheese, lettuce, tomato, crispy bacon and mayo on Tuscan bread.",
+        "price": "$12.49",
+        "categories": ["Sandwich"]
+    },
+    {
+        "name": "Caprese Wrap",
+        "description": "Fresh mozzarella sliced tomatoes roasted peppers seasoning and olive oil.",
+        "price": "$11.99",
+        "categories": ["Vegan", "Wrap"]
+    },
+    {
+        "name": "Bologna and Cheese Wrap",
+        "description": "Bologna and cheese in a tortilla wrap.",
+        "price": "$12.99",
+        "categories": ["Vegan", "Wrap"]
+    },
+    {
+        "name": "Classic Italian Sub",
+        "description": "Genoa salami, pepperoni, ham, provolone cheese, lettuce, tomato, onion, Italian dressing on a sub roll.",
+        "price": "$10.99",
+        "categories": ["Sandwich"]
+    },
+    {
+        "name": "Greek Salad",
+        "description": "Fresh mixed greens, feta cheese, Kalamata olives, cucumber, tomato, red onion, Greek dressing.",
+        "price": "$9.99",
+        "categories": ["Salad"]
+    },
+    {
+        "name": "Pastrami Reuben",
+        "description": "Thinly sliced pastrami, Swiss cheese, sauerkraut, Thousand Island dressing on rye bread.",
+        "price": "$13.49",
+        "categories": ["Sandwich"]
+    },
+    {
+        "name": "Mediterranean Wrap",
+        "description": "Grilled chicken, roasted red peppers, feta cheese, lettuce, cucumber, tzatziki sauce wrapped in a tortilla.",
+        "price": "$12.99",
+        "categories": ["Wrap"]
+    },
+    {
+        "name": "Vegetarian Panini",
+        "description": "Grilled eggplant, zucchini, roasted red peppers, spinach, on ciabatta bread.",
+        "price": "$11.49",
+        "categories": ["Panini", "Vegan"]
+    },
+    {
+        "name": "BBQ Chicken Pizza",
+        "description": "Grilled chicken, BBQ sauce, red onions, cilantro, mozzarella cheese on a thin crust.",
+        "price": "$14.99",
+        "categories": ["Pizza"]
+    },
+    {
+        "name": "Chicken Caesar Salad",
+        "description": "Grilled chicken, romaine lettuce, croutons, Parmesan cheese, Caesar dressing.",
+        "price": "$10.49",
+        "categories": ["Salad"]
+    }
+]
